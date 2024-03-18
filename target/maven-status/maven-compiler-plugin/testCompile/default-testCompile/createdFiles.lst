@@ -1,0 +1,3 @@
+br\com\jpmonteiroo\gestao_vagas\modules\candidate\useCases\ApplyJobCandidateUseCaseTest.class
+br\com\jpmonteiroo\gestao_vagas\modules\company\controllers\CreateJobControllerTest.class
+br\com\jpmonteiroo\gestao_vagas\utils\TestUtils.class
